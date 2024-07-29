@@ -18,7 +18,7 @@ const Navbar = () => {
                 React Jobs
               </span>
             </NavLink>
-            {/* <div className='md:ml-auto'>
+            <div className='md:ml-auto'>
               <div className='flex space-x-2'>
                 <NavLink to='/' className={linkClass}>
                   Home
@@ -30,7 +30,7 @@ const Navbar = () => {
                   Add Job
                 </NavLink>
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
